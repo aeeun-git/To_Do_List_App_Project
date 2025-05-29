@@ -1,0 +1,24 @@
+# IntelliJ/Android Studio
+*.iml
+/.idea/
+
+# Gradle
+/.gradle/
+/build/
+/app/build/
+
+# Local config (SDK 경로 등)
+local.properties
+
+# Native builds
+/.externalNativeBuild/
+/.cxx/
+
+# Captures (Android Studio screen captures)
+captures/
+
+# Keystore files
+*.keystore
+
+# macOS
+.DS_Store

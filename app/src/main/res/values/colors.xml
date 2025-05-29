@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="event_dot_color">#F09090</color>  <!-- 원하는 점 색 -->
+</resources>
